@@ -23,16 +23,16 @@ Analyzed 2,253 real Glassdoor Data Analyst job postings.
 ### Visualizations
 
 #### Top 10 Cities by Number of Data Analyst Job Postings
-![Top 10 Cities](visualizations/top-10-cities.png)
+![Top 10 Locations](top-10-cities.png)
 
 #### Average Salary by Industry Sector
-![Avg Salary by Sector](visualizations/avg-salary-by-sector.png)
+![Avg Salary by Sector](avg-salary-by-sector.png)
 
 #### Most In-Demand Technical Skills
-![Skill Demand](visualizations/skill-demand.png)
+![Skill Demand](skill-demand.png)
 
 #### Average Salary by Seniority Level
-![Salary by Seniority](visualizations/salary-by-seniority.png)
+![Salary by Seniority](salary-by-seniority.png)
 
 ### Deliverables
 - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/fariba.kazi/viz/DataAnalystJobMarketAnalysisProjectFaribaKazi/DataAnalystJobMarketAnalysis#1)
